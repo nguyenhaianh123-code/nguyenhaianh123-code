@@ -1,7 +1,7 @@
 ## Technical skills: 
-SQL: MySQL, PostgreSQL, Google BigQuery
-Power BI: DAX, Power Query, Data Modeling
-Python: Pandas, NumPy, MatPlotLib, Seaborn
+- SQL: MySQL, PostgreSQL, Google BigQuery
+- Power BI: DAX, Power Query, Data Modeling
+- Python: Pandas, NumPy, MatPlotLib, Seaborn
 
 <!--
 **nguyenhaianh123-code/nguyenhaianh123-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
