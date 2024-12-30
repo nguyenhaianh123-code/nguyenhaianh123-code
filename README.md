@@ -1,3 +1,7 @@
+My Linkedin: https://www.linkedin.com/in/nguy%E1%BB%85n-h%E1%BA%A3i-anh-978925174/
+Gmail: haianh.nguyen.pl@gmail.com
+
+---
 ## Technical skills: 
 - SQL: MySQL, PostgreSQL, Google BigQuery
 - Power BI: DAX, Power Query, Data Modeling
